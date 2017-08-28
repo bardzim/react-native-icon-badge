@@ -2,7 +2,7 @@
   "name": "react-native-icon-badge",
   "version": "1.1.0",
   "description": "add icon badge to other element for React Native",
-  "main": "IconBadge.js",
+  "main": "IconBadge.jsx",
   "scripts": {
     "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
